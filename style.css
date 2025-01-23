@@ -1,0 +1,19 @@
+body{
+    background-image: url(background\ image.jpeg);
+    width: 100%;
+    padding: 40px;
+    margin-top: 20px; 
+    background-size: cover;
+    text-transform: capitalize;
+    text-align: center;
+}
+h1{
+    text-decoration: underline;
+    color: white;
+    margin-right:20%;
+}
+}
+@media screen (min-width: 407px){
+    .cointainer{
+        display:flex;
+    }
